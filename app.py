@@ -29,3 +29,4 @@ def predict():
         "input": text,
         "prediction": prediction
     })
+# version 3
